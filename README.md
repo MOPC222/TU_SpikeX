@@ -1,2 +1,2 @@
-# TU_OpenCockpit
- Textures Unlimited Patches for OpenCockpits
+# TU_SpikeX
+ Textures Unlimited Patches for NESD's SpikeX
